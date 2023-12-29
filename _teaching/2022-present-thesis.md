@@ -4,7 +4,7 @@ collection: teaching
 type: "MSc Thesis Supervision"
 permalink: /teaching/2022-present-thesis
 venue: "RSM, Erasmua University"
-date: 2021-present
+date: 2021-01-01
 location: "Rotterdam, The Netherlands"
 ---
 
