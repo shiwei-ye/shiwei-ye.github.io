@@ -9,6 +9,10 @@ author_profile: true
 
 Coach and co-reader
 
+**FinTech: Business models and Application (MSc)**, RSM, 2024
+
+Teaching Assistant
+
 **Python for Finance (MSc)**, RSM, 2022
 
 Instructor
