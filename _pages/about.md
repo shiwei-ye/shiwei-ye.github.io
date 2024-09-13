@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello!
 
-I am a Finance PhD student at Rotterdam School of Management, Eramus University Rotterdam. My research interests include political economy, household finance, corporate finance, and innovation. My supervisors are [Prof. Daniel Metzger](https://sites.google.com/site/danielmetzgerhome/home) and [Dr. Thomas Lambert](https://thomaslambert.org/).
+I am a Finance PhD student at Rotterdam School of Management, Erasmus University Rotterdam. My research interests include political economy, household finance, corporate finance, and innovation. My supervisors are [Prof. Daniel Metzger](https://sites.google.com/site/danielmetzgerhome/home) and [Dr. Thomas Lambert](https://thomaslambert.org/).
 
 **Email**: ye@rsm.nl
 
