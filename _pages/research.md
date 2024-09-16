@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Working Paper
 
-**Campaign Rallies, Perceived Uncertainty, and Household Borrowing** [[Link]](http://shiwei-ye.github.io/files/rallies_uncertainty.pdf)
+**Campaign Rallies, Perceived Uncertainty, and Household Borrowing** [[Link]](http://shiwei-ye.github.io/files/rallies_uncertainty.pdf), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4924594)
 
 *Presentations*: AFA PhD Poster Session (2025 scheduled), EFiC Conference in Banking and Corporate Finance (2024), Augustin Cournot Doctoral Days (2024), ERIM PhD Seminar (2023) 
 
