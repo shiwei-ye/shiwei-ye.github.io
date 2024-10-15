@@ -9,11 +9,11 @@ redirect_from:
 ---
 Hello!
 
-I am a Finance PhD student at Rotterdam School of Management, Erasmus University Rotterdam. My research interests include political economy, household finance, corporate finance, and innovation. My supervisors are [Prof. Daniel Metzger](https://sites.google.com/site/danielmetzgerhome/home) and [Dr. Thomas Lambert](https://thomaslambert.org/).
+I am a Finance PhD student at Rotterdam School of Management, Erasmus University Rotterdam. My research interests include political economy, household finance, corporate finance, and innovation. My supervisors are [Prof. Daniel Metzger](https://sites.google.com/site/danielmetzgerhome/home) and [Dr. Thomas Lambert](https://thomaslambert.org/). You can find my CV [here](https://www.dropbox.com/scl/fi/911i8xgvetiesw78asmmd/sye_cv.pdf?rlkey=8603d99o40s6er94eksnh6b08&dl=0).
+
 
 **Email**: ye@rsm.nl
 
 **Phone**: +31 (0) 10 408 2824
 
-[Download CV](http://shiwei-ye.github.io/files/sye_cv.pdf)
 

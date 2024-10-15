@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://shiwei-ye.github.io/files/sye_cv.pdf)
+[Download CV here](https://www.dropbox.com/scl/fi/911i8xgvetiesw78asmmd/sye_cv.pdf?rlkey=8603d99o40s6er94eksnh6b08&dl=0)
