@@ -16,7 +16,7 @@ author_profile: true
 
 **Boards of Banks**, with [Daniel Ferreira](https://sites.google.com/view/danielferreira), [Tom Kirchmaier](https://sites.google.com/site/tomkirchmaier/home), and [Daniel Metzger](https://sites.google.com/site/danielmetzgerhome/home) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1620551)
 
-revise and resubmit at the *Journal of Corporate Finance*
+Revise and resubmit at the *Journal of Corporate Finance*
 
 *Abstract*: We show that country characteristics explain most of the cross-sectional variation in bank board independence. In contrast, country characteristics have little explanatory power for the proportion of outside bank directors with experience in the banking industry. Exploiting the time-series dimension of the sample, we show that changes in bank characteristics are not robustly associated with changes in board independence. In contrast, changes in board banking experience are positively related to changes in bank size and negatively related to changes in performance. The evidence suggests that country-specific laws and regulations affect the composition of boards of banks mainly through requirements for director independence. 
 
@@ -32,3 +32,5 @@ revise and resubmit at the *Journal of Corporate Finance*
 
 **How Do Employees Generate Firm Value With Generative AI? Evidence From Open-Source Software** 
 - Preliminary draft available upon request.
+
+*Presentations*: ERIM PhD Seminar (2024)
