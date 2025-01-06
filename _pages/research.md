@@ -8,7 +8,7 @@ author_profile: true
 
 **Campaign Rallies, Perceived Uncertainty, and Household Borrowing** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4924594)
 
-*Presentations*: AFA PhD Poster Session (2025 scheduled), EFiC Conference in Banking and Corporate Finance (2024), Augustin Cournot Doctoral Days (2024), ERIM PhD Seminar (2023) 
+*Presentations*: AFA PhD Poster Session (2025), EFiC Conference in Banking and Corporate Finance (2024), Augustin Cournot Doctoral Days (2024), ERIM PhD Seminar (2023) 
 
 *Awards*: Best Paper Award of ACDD2024 Conference
 
@@ -24,7 +24,7 @@ Revise and resubmit at the *Journal of Corporate Finance*
 
 
 **The Private Value of Open-Source Innovation**, with [Logan Emery](https://www.logan-emery.com/home) and [Chan Lim](https://www.chan-lim.com/)
-- Preliminary draft available upon request.
+- Draft will be available soon on SSRN.
 
 *Presentations*: RSM Research Lunch Seminar (2023)
 
