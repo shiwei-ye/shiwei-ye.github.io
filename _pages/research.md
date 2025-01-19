@@ -33,4 +33,4 @@ Revise and resubmit at the *Journal of Corporate Finance*
 **How Do Employees Generate Firm Value With Generative AI? Evidence From Open-Source Software** 
 - Preliminary draft available upon request.
 
-*Presentations*: ERIM PhD Seminar (2024)
+*Presentations*: SGF Conference (2025, scheduled), ERIM PhD Seminar (2024)
