@@ -31,4 +31,4 @@ Revise and resubmit at the *Journal of Corporate Finance*
 **Task Efficiency and Signaling in the Age of GenAI: Effort Reallocation and Firm Value Eﬀects** 
 - Preliminary draft available upon request.
 
-*Presentations*: SGF Conference PhD Poster (2025, scheduled), ERIM PhD Seminar (2024)
+*Presentations*: SGF Conference PhD Poster (2025), ERIM PhD Seminar (2024)
