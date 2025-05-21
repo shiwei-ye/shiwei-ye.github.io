@@ -8,7 +8,7 @@ author_profile: true
 
 **The Private Value of Open-Source Innovation**, with [Logan Emery](https://www.logan-emery.com/home) and [Chan Lim](https://www.chan-lim.com/) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054880)
 
-*Presentations*: ABFER (2025, Scheduled), CICF (2025, Scheduled), EFA (2025, Scheduled), ENTFIN (2025, Scheduled), SAIF Annual Research Conference (2025, Scheduled), MFA (2025), Erasmus University Rotterdam (2025), Rochester Institute of Technology (2025), Florida State University (2024), Monash University (2024),  University at Buffalo (2024), RSM Research Lunch Seminar (2023)
+*Presentations*: CICF (2025, Scheduled), EFA (2025, Scheduled), ENTFIN (2025, Scheduled), SAIF Annual Research Conference (2025, Scheduled), ABFER (2025), MFA (2025), Erasmus University Rotterdam (2025), Rochester Institute of Technology (2025), Florida State University (2024), Monash University (2024),  University at Buffalo (2024), RSM Research Lunch Seminar (2023)
 
 *Abstract*: We investigate open-source innovation by public firms and the private value it generates for these firms. Unlike patents, which grant inventors exclusive rights to their inventions, open-source innovations can be used by anyone. Nevertheless, using an extensive dataset of public-firm activity on GitHub, we find that open-source activity is widespread.  Firms with open-source projects represent 68% of the U.S. stock market across 86% of industries.  We estimate the value of all projects in our sample to be nearly 25 billion, with the average project generating \$832,000.  Firms facing less competition generate more value, suggesting they capture a larger portion of the total value of their innovation.  Open-source value significantly predicts firm growth, but it also stimulates patenting by other firms and does not result in creative destruction. These results contribute to our understanding of how innovation generates private value in the absence of excludability.
 
@@ -33,4 +33,4 @@ Revise and resubmit at the *Journal of Corporate Finance*
 **Task Efficiency and Signaling in the Age of GenAI: Effort Reallocation and Firm Value Eﬀects** 
 - Preliminary draft available upon request.
 
-*Presentations*: SGF Conference PhD Poster (2025), ERIM PhD Seminar (2024)
+*Presentations*: AFA (2026, Scheduled), SGF Conference PhD Poster (2025), ERIM PhD Seminar (2024)
