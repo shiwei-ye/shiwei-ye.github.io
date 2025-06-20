@@ -30,4 +30,4 @@ Forthcoming at the *Journal of Corporate Finance*
 **Task Efficiency and Signaling in the Age of GenAI: Effort Reallocation and Firm Value Eﬀects** 
 - Preliminary draft available upon request.
 
-*Presentations*: AFA (2026, Scheduled), CONCORDi (2025, Scheduled), SGF Conference PhD Poster (2025), ERIM PhD Seminar (2024)
+*Presentations*: AFA (2026, Scheduled), Corporate Finance Days (2025, Scheduled), CONCORDi (2025, Scheduled), SGF Conference PhD Poster (2025), ERIM PhD Seminar (2024)
