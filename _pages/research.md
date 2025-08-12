@@ -26,7 +26,7 @@ We investigate open-source innovation by public firms and the private value it g
 This paper examines how political compaigns during the 2016 U.S. presidential election influences perceptions of economic uncertainty and subsequent household financial behaviors. Using a difference-in-differences approach, I show that Clinton's rallies reduced perceived economic uncertainty, particularly macro uncertainty. Moreover, areas hosting rallies showed an increase in P2P and mortgage loan applications after Clinton's visits, aligning with life-cycle models with precautionary motives. Effects are stronger in areas having higher initial level of economic uncertainty. In contrast, Trump's rallies did not significantly influence uncertainty perceptions or borrowing decisions. These findings shed light on a novel channel through which campaign information shapes real financial decisions, with effects contingent on the candidate involved.
 </details>
 ## Publication
-**Boards of Banks**, with [Daniel Ferreira](https://sites.google.com/view/danielferreira), [Tom Kirchmaier](https://sites.google.com/site/tomkirchmaier/home), and [Daniel Metzger](https://sites.google.com/site/danielmetzgerhome/home) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1620551)
+**Boards of Banks**, with [Daniel Ferreira](https://sites.google.com/view/danielferreira), [Tom Kirchmaier](https://sites.google.com/site/tomkirchmaier/home), and [Daniel Metzger](https://sites.google.com/site/danielmetzgerhome/home) [[Link]](https://www.sciencedirect.com/science/article/pii/S0929119925001075)
 
 Forthcoming at the *Journal of Corporate Finance*
 
