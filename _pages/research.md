@@ -8,7 +8,7 @@ author_profile: true
 
 **The Private Value of Open-Source Innovation**, with [Logan Emery](https://www.logan-emery.com/home) and [Chan Lim](https://www.chan-lim.com/) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054880)
 
-*Selected Presentations*: EFA (Scheduled), FMA (Scheduled), Future Finance Fest (Scheduled), GSU AI and FinTech Conference (Scheduled), Paris December Finance Meeting (Scheduled), ABFER (2025), CICF (2025), ENTFIN (2025), Joint Conference with Allied KFA (2025), MFA (2025), SAIF Annual Research Conference (2025), University of Barcelona Micro Workshop (2025)
+*Selected Presentations*:  FMA (Scheduled), GSU AI and FinTech Conference (Scheduled), Paris December Finance Meeting (Scheduled), ABFER (2025), CICF (2025), EFA (2025), ENTFIN (2025), Future Finance Fest (2025), Joint Conference with Allied KFA (2025), MFA (2025), SAIF Annual Research Conference (2025), University of Barcelona Micro Workshop (2025)
 
 <details>
 <summary> Abstract </summary>
