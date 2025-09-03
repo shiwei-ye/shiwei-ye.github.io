@@ -4,6 +4,19 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
+## Job Market Paper
+
+**Task Efficiency and Signaling in the Age of GenAI: Effort Reallocation and Firm Value Eﬀects** 
+- Preliminary draft available [[here]](https://www.dropbox.com/scl/fi/jdczeanly5o32dzet6txz/aivalue.pdf?rlkey=9mam4o0i8xyvllxqaiosah82x&dl=0).
+
+<details>
+<summary> Abstract </summary>
+In this paper, I study how Generative AI (GenAI) reshapes effort allocation and firm value by influencing the costs and signaling value of AI-assisted tasks. Using developer-level data from open-source projects linked to U.S. public firms and the launch of GitHub Copilot as a shock, I find that GenAI increases productivity in coding tasks but reduces the signaling value of such work for less-established developers. While senior developers benefit from increased efficiency in coding tasks, junior developers, whose contributions are less visible in an AI-assisted environment, create more-valuable projects as a more effective signal of ability. These changes in signaling incentives are reflected in selection of projects and languages, job mobility, promotion rates, and firm-level outcomes. Firms with more junior innovators exposed to AI see greater value creation from new projects, while non-innovative firms with senior teams capture efficiency gains. The findings shed new lights on the dual role of GenAI as both a productivity tool and a force reshaping labor market signaling.
+</details>
+
+*Presentations*: AFA (2026, Scheduled), Corporate Finance Days (2025, Scheduled), 10th European Conference on Corporate R&D and Innovation (2025, Scheduled), SGF Conference PhD Poster (2025), ERIM PhD Seminar (2024)
+
 ## Working Papers
 
 **The Private Value of Open-Source Innovation**, with [Logan Emery](https://www.logan-emery.com/home) and [Chan Lim](https://www.chan-lim.com/) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054880)
@@ -30,9 +43,3 @@ This paper examines how political compaigns during the 2016 U.S. presidential el
 
 Forthcoming at the *Journal of Corporate Finance*
 
-## Work in Progress
-
-**Task Efficiency and Signaling in the Age of GenAI: Effort Reallocation and Firm Value Eﬀects** 
-- Preliminary draft available upon request.
-
-*Presentations*: AFA (2026, Scheduled), Corporate Finance Days (2025, Scheduled), 10th European Conference on Corporate R&D and Innovation (2025, Scheduled), SGF Conference PhD Poster (2025), ERIM PhD Seminar (2024)
