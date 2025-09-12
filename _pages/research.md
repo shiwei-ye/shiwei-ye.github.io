@@ -15,9 +15,9 @@ author_profile: true
 In this paper, I study how Generative AI (GenAI) reshapes effort allocation and firm value by influencing the costs and signaling value of AI-assisted tasks. Using developer-level data from open-source projects linked to U.S. public firms and the launch of GitHub Copilot as a shock, I find that GenAI increases productivity in coding tasks but reduces the signaling value of such work for less-established developers. While senior developers benefit from increased efficiency in coding tasks, junior developers, whose contributions are less visible in an AI-assisted environment, create more-valuable projects as a more effective signal of ability. These changes in signaling incentives are reflected in selection of projects and languages, job mobility, promotion rates, and firm-level outcomes. Firms with more junior innovators exposed to AI see greater value creation from new projects, while non-innovative firms with senior teams capture efficiency gains. The findings shed new lights on the dual role of GenAI as both a productivity tool and a force reshaping labor market signaling.
 </details>
 
-*Presentations*: AFA (2026, Scheduled), 10th European Conference on Corporate R&D and Innovation (2025, Scheduled), Corporate Finance Days (2025), SGF Conference PhD Poster (2025), ERIM PhD Seminar (2024)
+*Presentations*: AFA (2026, Scheduled), 10th European Conference on Corporate R&D and Innovation (2025, Scheduled), Corporate Finance Day (2025), SGF Conference PhD Poster (2025), ERIM PhD Seminar (2024)
 
-*Awards*: Corporate Finance Days Best PhD Paper Award
+*Awards*: Corporate Finance Day Best PhD Paper Award
 
 ## Working Papers
 
