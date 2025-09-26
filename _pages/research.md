@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**Task Efficiency and Signaling in the Age of GenAI: Effort Reallocation and Firm Value Eﬀects** 
+**Task Efficiency and Signaling in the Age of GenAI: Effort Reallocation and Firm Value Effects** 
 - Preliminary draft available upon request.
 
 <details>
