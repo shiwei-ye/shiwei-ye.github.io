@@ -17,13 +17,13 @@ In this paper, I study how Generative AI (GenAI) reshapes effort allocation and 
 
 *Presentations*: AFA (2026, Scheduled), Zurich Workshop in AI+Economics (2025, Scheduled), Corporate Finance Day (2025), 10th European Conference on Corporate R&D and Innovation (CONCORDi, 2025), SGF Conference PhD Poster (2025), ERIM PhD Seminar (2024)
 
-*Awards*: Corporate Finance Day Best PhD Paper Award, *Finalist* for CONCORDi Best Paper Award
+*Awards*: Corporate Finance Day Best PhD Paper Award, CONCORDi Best Paper Award Runner-Up
 
 ## Working Papers
 
 **The Private Value of Open-Source Innovation**, with [Logan Emery](https://www.logan-emery.com/home) and [Chan Lim](https://www.chan-lim.com/) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054880)
 
-*Selected Presentations*:  FMA (Scheduled), GSU AI and FinTech Conference (Scheduled), Paris December Finance Meeting (Scheduled), ABFER (2025), CICF (2025), EFA (2025), ENTFIN (2025), Future Finance Fest (2025), Joint Conference with Allied KFA (2025), MFA (2025), SAIF Annual Research Conference (2025), University of Barcelona Micro Workshop (2025)
+*Selected Presentations*:  FMA (Scheduled), Paris December Finance Meeting (Scheduled), ABFER (2025), CICF (2025), EFA (2025), ENTFIN (2025), Future Finance Fest (2025), GSU AI and FinTech Conference (2025), Joint Conference with Allied KFA (2025), MFA (2025), SAIF Annual Research Conference (2025), University of Barcelona Micro Workshop (2025)
 
 <details>
 <summary> Abstract </summary>
