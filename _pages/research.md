@@ -10,15 +10,14 @@ author_profile: true
 **Task Efficiency and Signaling in the Age of GenAI: Effort Reallocation and Firm Value Effects** 
 - Preliminary draft available upon request.
 
-<details>
-<summary> Abstract </summary>
-I study how Generative AI (GenAI) reshapes effort allocation and firm value by affecting both productivity and signaling. Using developer-level data from U.S. public firms' open-source projects, I construct a novel AI exposure measure and exploit GitHub Copilot's launch as a shock. I find that GenAI increases coding productivity for senior developers while juniors create more valuable novel projects. This is consistent with seniors capturing efficiency gains while career-concerned juniors shift toward producing more effective signals of ability in response to GenAI's erosion in coding's signaling value. These changes in signaling incentives are reflected in project selection, programming language choices, job moves across firms, and firm-level value creation that depends on incentive alignment. A multitask signaling model rationalizes these patterns. These findings shed new light on the dual role of GenAI as a productivity tool and a force reshaping labor market signaling.
-</details>
-
 *Presentations*: AFA (2026, Scheduled), Zurich Workshop in AI+Economics (2025, Scheduled), Corporate Finance Day (2025), 10th European Conference on Corporate R&D and Innovation (CONCORDi, 2025), SGF Conference PhD Poster (2025), ERIM PhD Seminar (2024)
 
 *Awards*: Corporate Finance Day Best PhD Paper Award, CONCORDi Best Paper Award Runner-Up
 
+<details>
+<summary> Abstract </summary>
+I study how Generative AI (GenAI) reshapes effort allocation and firm value by affecting both productivity and signaling. Using developer-level data from U.S. public firms' open-source projects, I construct a novel AI exposure measure and exploit GitHub Copilot's launch as a shock. I find that GenAI increases coding productivity for senior developers while juniors create more valuable novel projects. This is consistent with seniors capturing efficiency gains while career-concerned juniors shift toward producing more effective signals of ability in response to GenAI's erosion in coding's signaling value. These changes in signaling incentives are reflected in project selection, programming language choices, job moves across firms, and firm-level value creation that depends on incentive alignment. A multitask signaling model rationalizes these patterns. These findings shed new light on the dual role of GenAI as a productivity tool and a force reshaping labor market signaling.
+</details>
 ## Working Papers
 
 **The Private Value of Open-Source Innovation**, with [Logan Emery](https://www.logan-emery.com/home) and [Chan Lim](https://www.chan-lim.com/) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054880)
