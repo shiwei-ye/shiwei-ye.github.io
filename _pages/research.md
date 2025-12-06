@@ -10,7 +10,7 @@ author_profile: true
 **Task Efficiency and Signaling in the Age of GenAI: Effort Reallocation and Firm Value Effects** 
 - Preliminary draft available upon request.
 
-*Presentations*: AFA (2026, Scheduled), Zurich Workshop in AI+Economics (2025, Scheduled), Corporate Finance Day (2025), 10th European Conference on Corporate R&D and Innovation (CONCORDi, 2025), SGF Conference PhD Poster (2025), ERIM PhD Seminar (2024)
+*Presentations*: AFA (2026, Scheduled), Corporate Finance Day (2025), 10th European Conference on Corporate R&D and Innovation (CONCORDi, 2025), SGF Conference PhD Poster (2025), Zurich Workshop in AI+Economics (2025), ERIM PhD Seminar (2024)
 
 *Awards*: Corporate Finance Day Best PhD Paper Award, CONCORDi Best Paper Award Runner-Up
 
