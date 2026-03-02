@@ -42,5 +42,5 @@ This paper examines how political compaigns during the 2016 U.S. presidential el
 ## Publication
 **Boards of Banks**, with [Daniel Ferreira](https://sites.google.com/view/danielferreira), [Tom Kirchmaier](https://sites.google.com/site/tomkirchmaier/home), and [Daniel Metzger](https://sites.google.com/site/danielmetzgerhome/home) [[Link]](https://www.sciencedirect.com/science/article/pii/S0929119925001075)
 
-Forthcoming at the *Journal of Corporate Finance*
+*Journal of Corporate Finance*, 2025
 
