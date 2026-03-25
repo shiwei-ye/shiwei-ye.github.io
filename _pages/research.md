@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Job Market Paper
+## Working Papers
 
 **Task Efficiency and Signaling in the Age of GenAI: Effort Reallocation and Firm Value Effects** 
 - Preliminary draft available upon request.
@@ -18,7 +18,6 @@ author_profile: true
 <summary> Abstract </summary>
 I study how Generative AI (GenAI) reshapes effort allocation and firm value by affecting both productivity and signaling. Using developer-level data from U.S. public firms' open-source projects, I construct a novel AI exposure measure and exploit GitHub Copilot's launch as a shock. I find that GenAI increases coding productivity for senior developers while juniors create more valuable novel projects. This is consistent with seniors capturing productivity gains while career-concerned juniors shift toward producing more effective signals of ability in response to GenAI's erosion in coding's signaling value. Changes in signaling incentives are reflected in project selection, programming language choices, and job moves across firms. Firm-level value creation depends on alignment along signaling incentives. A multitask signaling model rationalizes these patterns. These findings shed new light on the dual role of GenAI as a productivity tool and a force reshaping labor market signaling.
 </details>
-## Working Papers
 
 **The Private Value of Open-Source Innovation**, with [Logan Emery](https://www.logan-emery.com/home) and [Chan Lim](https://www.chan-lim.com/) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054880)
 
