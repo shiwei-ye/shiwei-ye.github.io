@@ -7,8 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-**Task Efficiency and Signaling in the Age of GenAI: Effort Reallocation and Firm Value Effects** 
-- Preliminary draft available upon request.
+**Task Efficiency and Signaling in the Age of GenAI: Effort Reallocation and Firm Value Effects** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6682138)
 
 *Presentations*: FIRS (2026, Scheduled), AFA (2026), Corporate Finance Day (2025), 10th European Conference on Corporate R&D and Innovation (CONCORDi, 2025), SGF Conference PhD Poster (2025), Zurich Workshop in AI+Economics (2025), ERIM PhD Seminar (2024)
 
